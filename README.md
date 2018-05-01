@@ -1,7 +1,7 @@
 # Memory-Register-Simulation
 *** May be incomplete or not working properly ***
 
-This is a small memory/register with cache simulation written in C++.
+This is a small memory/register with cache simulation written in C++ for a class project.
 
 Program was made using Visual Studio 2017.
 
